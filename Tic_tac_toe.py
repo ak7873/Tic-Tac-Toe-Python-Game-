@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 25 20:31:50 2019
 
 @author: Alok_Aryan_
 """
